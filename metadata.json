@@ -1,0 +1,8 @@
+{
+  "name": "The O.C.D.'s Cafe POS & Inventory System",
+  "description": "Tablet-optimized Point of Sale, real-time inventory management with low-stock alerts, staff scheduling, encrypted checkout, and weekly/monthly financial reports for The O.C.D.'s Cafe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
